@@ -175,4 +175,4 @@ cython_debug/
 
 
 # Custome files:
-customers_loan_data.csv
+**/customers_loan_data.csv
